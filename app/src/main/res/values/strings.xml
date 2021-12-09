@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">To Do</string>
+    <string name="title">Title of task</string>
+    <string name="Date">Date of task</string>
+    <string name="description">description of task</string>
+    <string name="StateDone">Done</string>
+    <string name="StateComming">Comming</string>
+    <string name="Alltasks">All Tasks</string>
+    <string name="details">Details of the task</string>
+    <string name="Yes">Yes</string>
+    <string name="search_title">Search</string>
+    <string name="search_hint">please enter title to found task</string>
+    <string name="alphaSort">A-Z</string>
+    <string name="NewDate">Newest Task</string>
+    <string name="OldDate">Oldest Task</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

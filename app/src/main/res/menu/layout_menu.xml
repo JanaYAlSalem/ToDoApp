@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/SortByTitle"
+        android:title="@string/alphaSort"
+        app:showAsAction="never" />
+    <item android:id="@+id/NewTask"
+        android:title="@string/NewDate"
+        app:showAsAction="never" />
+    <item android:id="@+id/OldDate"
+        android:title="@string/OldDate"
+        app:showAsAction="never"
+        />
+</menu>
